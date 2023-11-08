@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil github 👋
 
 - 🔭 Atualmente trabalho com manutenção predial
-- 📚 Estou estudando Front-End
+- 📚 Estou estudando Data Science
 - 🎓 Sou formado em Tecnologia em Automação Industrial, mas estou migrando para o Front-End
 - ✈️ Sou de São Paulo
 
@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
 
 ## Tecnologias que estou estudando
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
           
 ## Contatos:
 
